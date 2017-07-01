@@ -1,2 +1,2 @@
-# SPA-course
+# SPA
 SPA project
